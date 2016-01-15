@@ -1,4 +1,4 @@
-FROM		redis:3.0
+FROM		redis:2.8
 MAINTAINER	Alexandre Buisine <alexandrejabuisine@gmail.com>
 LABEL		version="1.0.0"
 
